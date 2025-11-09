@@ -1,0 +1,878 @@
+=== Run started  2025-11-09T12:44:40 ===
+Args: r:/pythonstuff/addsimtype/addsimtype.py --apply
+Log file: logs\addsimtype_2025-11-09_12-44-40.log
+Feed index loaded: 1730 (ICAO,version) MSFS entries.
+UPDATED     | DABC | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Algeria\simsoft-airport-dabc-mohamed-boudiaf\manifest.json
+NO_MATCH    | FKKD | v2.1.0 | E:\MFS2020 Addons\Airports\Africa\Cameroon\fsxcenery-airport-fkkd-douala\manifest.json
+NO_MATCH    | FCBB | v2.0.0 | E:\MFS2020 Addons\Airports\Africa\Congo\fsxcenery-airport-fcbb-maya-maya\manifest.json
+UPDATED     | FCPP | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Congo\fsxcenery-airport-fcpp-pointe-noire\manifest.json
+NO_MATCH    | SKDS | v1.0.0 | E:\MFS2020 Addons\Airports\Africa\Djibouti\skds-airport-hdam-djibouti\manifest.json
+UPDATED     | HEMA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Egypt\chudobadesign-airport-hema-marsa-alam\manifest.json
+UPDATED     | HEAX | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Egypt\fsxcenery-airport-heax-el-nouzha\manifest.json
+NO_MATCH    | HESN | v1.0.0 | E:\MFS2020 Addons\Airports\Africa\Egypt\fsxcenery-airport-hesn-aswan\manifest.json
+NO_MATCH    | DIAP | v2.0.0 | E:\MFS2020 Addons\Airports\Africa\Ivory Coast\fsxcenery-airport-diap-felix-houphouet\manifest.json
+NO_MATCH    | DSKY | v1.1.0 | E:\MFS2020 Addons\Airports\Africa\Madagascar\dsky-airport-fmnn-fascene\manifest.json
+UPDATED     | GABS | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Mali\fsxcenery-airport-gabs-modibo-keita\manifest.json
+NO_MATCH    | GQNO | v1.0.0 | E:\MFS2020 Addons\Airports\Africa\Mauritania\fsxcenery-airport-gqno-nouakchott\manifest.json
+UPDATED     | GMMI | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Morocco\fsxcenery-airport-gmmi-essaouira-mogador\manifest.json
+UPDATED     | GMFB | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Morocco\perfectsoft-airport-gmfb-bouarfa\manifest.json
+UPDATED     | GMMX | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Morocco\perfectsoft-airport-gmmx-marrakesh-menara\manifest.json
+UPDATED     | GMMN | v1.2.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Morocco\prealsoft-airport-gmmn-casablanca\manifest.json
+UPDATED     | FQVL | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Mozambique\caelusaerial-airport-fqvl-vilankulo\manifest.json
+NO_MATCH    | FQMA | v2.1.0 | E:\MFS2020 Addons\Airports\Africa\Mozambique\fsxcenery-airport-fqma-maputo\manifest.json
+NO_MATCH    | MAGA | v1.0.0 | E:\MFS2020 Addons\Airports\Africa\Nigeria\maga-airport-dnka-kaduna\manifest.json
+NO_MATCH    | GOBD | v1.3.0 | E:\MFS2020 Addons\Airports\Africa\Senegal\devinci-airport-gobd-blaise-diagne\manifest.json
+NO_MATCH    | FAOR | v1.0.1 | E:\MFS2020 Addons\Airports\Africa\South Africa\inibuilds-airport-faor-johannesburg\manifest.json
+UPDATED     | HSSJ | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Sudan\fsxcenery-airport-hssj-juba\manifest.json
+NO_MATCH    | HTMR | v1.1.1 | E:\MFS2020 Addons\Airports\Africa\Tanzania\projectcoastline-airport-htmr-msembe\manifest.json
+UPDATED     | HTKJ | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Tanzania\vuelosimple-airport-htkj-kilimanjaro\manifest.json
+UPDATED     | DXXX | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Togo\fsxcenery-airport-dxxx-lome-tokoin\manifest.json
+NO_MATCH    | DTKA | v1.2.0 | E:\MFS2020 Addons\Airports\Africa\Tunisia\c3d-airport-dtka-tabarka\manifest.json
+UPDATED     | DTTA | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Africa\Tunisia\prealsoft-airport-dtta-tunis-carthage\manifest.json
+NO_MATCH    | FVHA | v2.1.0 | E:\MFS2020 Addons\Airports\Africa\Zimbabwe\fsxcenery-airport-fvha-robert-gabriel\manifest.json
+NO_MATCH    | ???? | v1.1.2 | E:\MFS2020 Addons\Airports\Antarctica\aerosoft-scenery-antarctica-vol-1\manifest.json
+NO_MATCH    | UDKS | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Armenia\amsim-airport-udks-stepanakert\manifest.json
+NO_MATCH    | UDSG | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Armenia\amsim-airport-udsg-shirak\manifest.json
+NO_MATCH    | UDYZ | v2.0.0 | E:\MFS2020 Addons\Airports\Asia\Armenia\amsim-airport-udyz-zvartnots\manifest.json
+NO_MATCH    | MFSG | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Burma\mfsg-airport-vyyy-yangon\manifest.json
+UPDATED     | ZBZL | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\catchstar-airport-zbzl-zhalantun\manifest.json
+UPDATED     | ZUHZ | v2.1.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\catchstar-airport-zuhz-jintang-huaizhou\manifest.json
+UPDATED     | ZUUU | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\dominicdesignteam-airport-zuuu-chengdu-shuangliu\manifest.json
+NO_MATCH    | ZGSZ | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\China\doublet-airport-zgsz-shenzhen-baoan\manifest.json
+UPDATED     | ZLDH | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\routeannstudio-airport-zldh-dunhuang-mogao\manifest.json
+UPDATED     | ZSOF | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\routeannstudio-airport-zsof-hefei-xinqiao\manifest.json
+NO_MATCH    | SKVG | v1.1.0 | E:\MFS2020 Addons\Airports\Asia\China\simdesignsco-airport-skvg-villa-garzon\manifest.json
+UPDATED     | ZSNJ | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\wfscenerystudio-airport-zsnj-nanjing-lukou\manifest.json
+UPDATED     | ZBMZ | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\zhoukess-airport-zbmz-manzhouli-xijiao\manifest.json
+UPDATED     | ZGHA | v3.4.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\zhoukess-airport-zgha-huanghua\manifest.json
+UPDATED     | ZWSH | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\China\zhoukess-airport-zwsh-kashi\manifest.json
+UPDATED     | VEPT | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\India\alkee-airport-vept-jay-prakash\manifest.json
+NO_MATCH    | VOHS | v2.0.0 | E:\MFS2020 Addons\Airports\Asia\India\cascadiaapproach-airport-vohs-rajiv-gandhi\manifest.json
+NO_MATCH    | VIDP | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\India\feelthere-airport-vidp-indira-gandhi\manifest.json
+UPDATED     | VABB | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\India\mskproductions-airport-vabb-chhatrapati\manifest.json
+NO_MATCH    | VIJP | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\India\skymatrix-airport-vijp-jaipur\manifest.json
+UPDATED     | WAHS | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\aeronoms-airport-wahs-jenderal-ahmad\manifest.json
+UPDATED     | WIKK | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\aeronoms-airport-wikk-depati-amir\manifest.json
+UPDATED     | WADD | v1.2.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\aerosoft-airport-wadd-ngurah-rai\manifest.json
+UPDATED     | WATO | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\aerosoft-airport-wato-komodo\manifest.json
+UPDATED     | WAJJ | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\binersim-airport-wajj-sentani\manifest.json
+NO_MATCH    | WIHH | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Indonesia\binersim-airport-wihh-halim-perdanakusuma\manifest.json
+UPDATED     | WIII | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\binersim-airport-wiii-soekarno-hatta\manifest.json
+UPDATED     | WITT | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\binersim-airport-witt-sultan-iskandar\manifest.json
+NO_MATCH    | WAFJ | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Indonesia\mujagoaviation-airport-wafj-tampa-padang\manifest.json
+UPDATED     | WAHI | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\mujagoaviation-airport-wahi-yogyakarta\manifest.json
+UPDATED     | WAMG | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\mujagoaviation-airport-wamg-jalaluddin\manifest.json
+UPDATED     | WATB | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\mujagoaviation-airport-watb-bajawa\manifest.json
+UPDATED     | WATG | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\mujagoaviation-airport-watg-frans-sales-lega\manifest.json
+UPDATED     | WIEE | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\mujagoaviation-airport-wiee-minangkabau\manifest.json
+UPDATED     | WIPP | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\mujagoaviation-airport-wipp-sultan-mahmud\manifest.json
+UPDATED     | WIGG | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\projectmax-airport-wigg-fatmawati\manifest.json
+NO_MATCH    | LIDT | v1.0.5 | E:\MFS2020 Addons\Airports\Asia\Indonesia\rcstudio-airport-lidt-trento-mattarello\manifest.json
+UPDATED     | WIDD | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\squawkid-airport-widd-hang-nadim\manifest.json
+UPDATED     | WARA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\suroboyosim-airport-wara-abdul-rachman\manifest.json
+UPDATED     | WILL | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\suroboyosim-airport-will-radin-inten-ii\manifest.json
+UPDATED     | WADL | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\worldsky-airport-wadl-lombok\manifest.json
+NO_MATCH    | WATT | v1.0.2 | E:\MFS2020 Addons\Airports\Asia\Indonesia\worldsky-airport-watt-el-tari\manifest.json
+UPDATED     | WIMM | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Indonesia\worldsky-airport-wimm-kualanamu\manifest.json
+UPDATED     | OIAW | v1.0.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Iran\homasim-airport-oiaw-ahvaz\manifest.json
+UPDATED     | OIIE | v1.1.4 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Iran\homasim-airport-oiie-tehran-imam-khomeini\manifest.json
+UPDATED     | OIII | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Iran\homasim-airport-oiii-mehrabad\manifest.json
+UPDATED     | LLBG | v1.2.6 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Israel\aerosoft-airport-llbg-ben-gurion-airport\manifest.json
+NO_MATCH    | RJBE | v1.0.1 | E:\MFS2020 Addons\Airports\Asia\Japan\devinci-airport-rjbe-kobe\manifest.json
+UPDATED     | RJCC | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Japan\dominicdesignteam-airport-rjcc-new-chitose\manifest.json
+UPDATED     | RJGG | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Japan\dominicdesignteam-airport-rjgg-chubu\manifest.json
+UPDATED     | RJOA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Japan\doublet-airport-rjoa-hiroshima\manifest.json
+UPDATED     | RJAA | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Japan\drzewieckidesign-airport-rjaa-narita\manifest.json
+UPDATED     | RJFK | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Japan\flyhigh-airport-rjfk-kagoshima\manifest.json
+NO_MATCH    | MADB | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Japan\madb-airport-rjoo-osaka\manifest.json
+NO_MATCH    | MADB | v1.1.0 | E:\MFS2020 Addons\Airports\Asia\Japan\madb-airport-rjtf-chofu\manifest.json
+NO_MATCH    | MFSG | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Japan\mfsg-airport-rjnt-toyama\manifest.json
+NO_MATCH    | MFSG | v1.1.0 | E:\MFS2020 Addons\Airports\Asia\Japan\mfsg-airport-rjok-kochi-ryoma\manifest.json
+NO_MATCH    | MFSG | v1.1.0 | E:\MFS2020 Addons\Airports\Asia\Japan\mfsg-airport-rjsa-aomori\manifest.json
+NO_MATCH    | RJEO | v1.0.1 | E:\MFS2020 Addons\Airports\Asia\Japan\sid-airport-rjeo-okushiri\manifest.json
+UPDATED     | RJKA | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Japan\simulacionextrema-airport-rjka-amami\manifest.json
+UPDATED     | RJKI | v1.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Japan\simulacionextrema-airport-rjki-kikai\manifest.json
+UPDATED     | RJBB | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Japan\technobrain-airport-rjbb-kansai\manifest.json
+UPDATED     | OJAI | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Jordan\doublet-airport-ojai-queen-alia\manifest.json
+NO_MATCH    | MFSG | v1.2.0 | E:\MFS2020 Addons\Airports\Asia\Jordan\mfsg-airport-ojaq-aqaba\manifest.json
+NO_MATCH    | OJAM | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Jordan\projectmax-airport-ojam-amman\manifest.json
+NO_MATCH    | WBKS | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Malaysia\borneo-airport-wbks-sandakan\manifest.json
+UPDATED     | WBGB | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Malaysia\secretstudio-airport-wbgb-bintulu\manifest.json
+NO_MATCH    | WBGG | v1.2.0 | E:\MFS2020 Addons\Airports\Asia\Malaysia\secretstudio-airport-wbgg-kuching\manifest.json
+NO_MATCH    | WBKK | v2.3.5 | E:\MFS2020 Addons\Airports\Asia\Malaysia\secretstudio-airport-wbkk-kota-kinabalu\manifest.json
+UPDATED     | WBKL | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Malaysia\shadescene-airport-wbkl-labuan\manifest.json
+UPDATED     | ZMCK | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Mongolia\kui-airport-zmck-chinggis-khaan\manifest.json
+NO_MATCH    | VNLK | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Nepal\aerosoft-airport-vnlk-lukla\manifest.json
+NO_MATCH    | VNKL | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Nepal\aerosoft-airports-vnkl-vnpl-phaplu\manifest.json
+UPDATED     | RPMD | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Philippines\airwil-airport-rpmd-davao\manifest.json
+UPDATED     | RPME | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Philippines\airwil-airport-rpme-butuan\manifest.json
+UPDATED     | RPMG | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Philippines\airwil-airport-rpmg-dipolog\manifest.json
+UPDATED     | RPMP | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Philippines\airwil-airport-rpmp-pagadian\manifest.json
+UPDATED     | RPMR | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Philippines\airwil-airport-rpmr-tambler\manifest.json
+UPDATED     | RPMZ | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Philippines\airwil-airport-rpmz-zamboanga\manifest.json
+UPDATED     | RPVE | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Philippines\airwil-airport-rpve-caticlan\manifest.json
+NO_MATCH    | RPLL | v1.2.1 | E:\MFS2020 Addons\Airports\Asia\Philippines\cloudsurfasiasimulations-airport-rpll-ninoy\manifest.json
+UPDATED     | RPVM | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Philippines\cloudsurfasiasimulations-airport-rpvm-mactan-cebu\manifest.json
+UPDATED     | OTHH | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Qatar\mxidesign-airport-othh-doha\manifest.json
+UPDATED     | WATE | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\South Korea\gudisim-airport-wate-h-hasan-aroeboesman\manifest.json
+UPDATED     | RKSI | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\South Korea\pacsim-airport-rksi-incheon\manifest.json
+NO_MATCH    | MFSG | v1.2.0 | E:\MFS2020 Addons\Airports\Asia\Sri Lanka\mfsg-airport-vcbi-bandaranaike\manifest.json
+UPDATED     | RCKH | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Taiwan\acodesignstudio-airport-rckh-kaohsiung\manifest.json
+NO_MATCH    | RCSS | v1.1.3 | E:\MFS2020 Addons\Airports\Asia\Taiwan\acodesignstudio-airport-rcss-taipei-songshan\manifest.json
+NO_MATCH    | RCTP | v1.1.2 | E:\MFS2020 Addons\Airports\Asia\Taiwan\acodesignstudio-airport-rctp-taoyuan\manifest.json
+NO_MATCH    | RCKW | v1.0.0 | E:\MFS2020 Addons\Airports\Asia\Taiwan\fsformosa-airport-rckw-hengchun\manifest.json
+UPDATED     | VTCN | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Thailand\hunter555-airport-vtcn-nan-nakhon\manifest.json
+UPDATED     | VTCI | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Thailand\siamflight-airport-vtci-pai-mae-hong-son\manifest.json
+UPDATED     | VTPH | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Thailand\siamflight-airport-vtph-prachuap-hua-hin\manifest.json
+NO_MATCH    | VTSS | v1.0.1 | E:\MFS2020 Addons\Airports\Asia\Thailand\siamflight-airport-vtss-hat-yai\manifest.json
+NO_MATCH    | RAMA | v1.0.1 | E:\MFS2020 Addons\Airports\Asia\Thailand\siamflight-heliport-hvtpj-rama-vi\manifest.json
+NO_MATCH    | ???? | v1.0.1 | E:\MFS2020 Addons\Airports\Asia\Thailand\siamflight-heliport-hvtpk-hua-hin\manifest.json
+UPDATED     | VTUI | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Thailand\simman-airport-vtui-sakon-nakhon\manifest.json
+NO_MATCH    | VTUK | v1.2.0 | E:\MFS2020 Addons\Airports\Asia\Thailand\simman-airport-vtuk-khon-kaen\manifest.json
+NO_MATCH    | VTUO | v2.1.0 | E:\MFS2020 Addons\Airports\Asia\Thailand\simman-airport-vtuo-buriram\manifest.json
+UPDATED     | VTUV | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Thailand\simman-airport-vtuv-roi-et\manifest.json
+UPDATED     | VTUW | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Thailand\simman-airport-vtuw-nakhon-phanom\manifest.json
+UPDATED     | VVDN | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Vietnam\dominicdesignteam-airport-vvdn-da-nang\manifest.json
+UPDATED     | VVNB | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Vietnam\dominicdesignteam-airport-vvnb-noi-bai\manifest.json
+UPDATED     | VVPQ | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Vietnam\dominicdesignteam-airport-vvpq-phu-quoc\manifest.json
+UPDATED     | VVTS | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Asia\Vietnam\dominicdesignteam-airport-vvts-tan-son-nhat\manifest.json
+NO_MATCH    | MYNN | v1.0.0 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\MYNN - sierrasim-airport-mynn-lynden-pindling\manifest.json
+NO_MATCH    | ???? | v0.1.0 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\ap-fences-1v1\manifest.json
+NO_MATCH    | MSFS | v0.1.0 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\kb_static_aircraft_MSFS\manifest.json
+NO_MATCH    | MYAB | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myab-bain\manifest.json
+NO_MATCH    | MYAF | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myaf-andros-town-intl\manifest.json
+NO_MATCH    | MYAK | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myak-congo-town\manifest.json
+NO_MATCH    | MYAM | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myam-marsh-harbour\manifest.json
+NO_MATCH    | MYAN | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myan-san-andros\manifest.json
+NO_MATCH    | MYAP | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myap-spring-point\manifest.json
+NO_MATCH    | MYAT | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myat-treasure-cay\manifest.json
+NO_MATCH    | MYBG | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\mybg-great-harbour-cay\manifest.json
+NO_MATCH    | MYBS | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\mybs-south-bimini\manifest.json
+NO_MATCH    | MYCA | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myca-arthurstown\manifest.json
+NO_MATCH    | MYCB | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\mycb-new-bight\manifest.json
+NO_MATCH    | MYCI | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myci-colonel-hill\manifest.json
+NO_MATCH    | MYEF | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myef-exuma-intl\manifest.json
+NO_MATCH    | MYEM | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myem-governors-harbour\manifest.json
+NO_MATCH    | MYER | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myer-rock-sound-intl\manifest.json
+NO_MATCH    | MYIG | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myig-inagua\manifest.json
+NO_MATCH    | MYLD | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myld-deadmans-cay\manifest.json
+NO_MATCH    | MYLS | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\myls-stella-maris\manifest.json
+NO_MATCH    | MYMM | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\mymm-mayaguana\manifest.json
+NO_MATCH    | MYSM | v0.1.27 | E:\MFS2020 Addons\Airports\Caribbean\Bahamas\Bahamas Aiport Pack 1.1\Packages\mysm-san-salvador-intl\manifest.json
+UPDATED     | TBPB | v1.0.4 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Caribbean\Barbados\richersimulations-airport-tbpb-grantley-adams\manifest.json
+UPDATED     | TXKF | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Caribbean\Bermuda\Airport - Bermuda International Airport TXKF (slhsimdesigns)\manifest.json
+NO_MATCH    | TNCB | v1.0.2 | E:\MFS2020 Addons\Airports\Caribbean\Bonaire\aerosoft-airport-tncb-flamingo\manifest.json
+UPDATED     | MUHA | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Caribbean\Cuba\airport - MUHA - Jose Marti International (mexhighflight)\manifest.json
+NO_MATCH    | MUVR | v2.2.0 | E:\MFS2020 Addons\Airports\Caribbean\Cuba\fsxcenery-airport-muvr-juan-gualberto\manifest.json
+UPDATED     | TDPD | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Caribbean\Dominica\slhsimdesigns-airport-tdpd-douglas-charles\manifest.json
+NO_MATCH    | TFFR | v1.0.0 | E:\MFS2020 Addons\Airports\Caribbean\Guadeloupe\taxi2gate-airport-tffr-pointe-a-pitre\manifest.json
+NO_MATCH    | MKJP | v2.0.0 | E:\MFS2020 Addons\Airports\Caribbean\Jamaica\wingsim-airport-mkjp-norman-manley\manifest.json
+UPDATED     | TJBQ | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Caribbean\Puerto Rico\centralsim-airport-tjbq-rafael-hernandez\manifest.json
+NO_MATCH    | SXAD | v1.0.5 | E:\MFS2020 Addons\Airports\Caribbean\Puerto Rico\sxad-airport-tjvq-antonio-rivera\manifest.json
+UPDATED     | TKPK | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Caribbean\Saint Kitts and Nevis\slhsimdesigns-airport-tkpk-robert-l-bradshaw\manifest.json
+NO_MATCH    | DSKY | v1.1.0 | E:\MFS2020 Addons\Airports\Caribbean\Saint Vincent\dsky-airport-tgpz-lauriston\manifest.json
+NO_MATCH    | DSKY | v1.0.0 | E:\MFS2020 Addons\Airports\Caribbean\Saint Vincent\dsky-airport-tvsb-bequia\manifest.json
+NO_MATCH    | DSKY | v1.0.0 | E:\MFS2020 Addons\Airports\Caribbean\Saint Vincent\dsky-airport-tvsc-canouan\manifest.json
+NO_MATCH    | DSKY | v1.0.0 | E:\MFS2020 Addons\Airports\Caribbean\Saint Vincent\dsky-airport-tvsm-mustique\manifest.json
+NO_MATCH    | DSKY | v1.1.0 | E:\MFS2020 Addons\Airports\Caribbean\Saint Vincent\dsky-airport-tvsu-union-island\manifest.json
+NO_MATCH    | TISX | v1.0.1 | E:\MFS2020 Addons\Airports\Caribbean\Virgin Islands\TISX - photosimlabs-island-st-croix\manifest.json
+UPDATED     | TIST | v2.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Caribbean\Virgin Islands\tropicalsim-airport-tist-cyril-e-king\manifest.json
+NO_MATCH    | MRLB | v1.0.0 | E:\MFS2020 Addons\Airports\Central America\Costa Rica\dreamflightstudios-airport-mrlb-liberia\manifest.json
+UPDATED     | LRIA | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Central America\Costa Rica\mldscenery-airport-lria-iasi\manifest.json
+UPDATED     | MROC | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Central America\Costa Rica\vpilotdesigns-airport-mroc-juan-santamaria\manifest.json
+NO_MATCH    | MGGT | v2.0.2 | E:\MFS2020 Addons\Airports\Central America\Guatemala\sierrasim-airport-mggt-la-aurora\manifest.json
+UPDATED     | LATI | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Albania\mxidesign-airport-lati-tirana\manifest.json
+NO_MATCH    | LOIK | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Austria\aerosoft-airport-loik-kufstein-langkampfen\manifest.json
+NO_MATCH    | LOIJ | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Austria\gayasimulations-airport-loij-sankt-johann\manifest.json
+UPDATED     | LOWW | v2.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Austria\gayasimulations-airport-loww-vienna\manifest.json
+NO_MATCH    | LOWZ | v1.2.3 | E:\MFS2020 Addons\Airports\Europe\Austria\gayasimulations-airport-lowz-zell-am-see\manifest.json
+NO_MATCH    | LOWI | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\Austria\inibuilds-airport-lowi-innsbruck\manifest.json
+UPDATED     | LOGL | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Austria\rmstudios-airport-logl-lanzen-turnau\manifest.json
+NO_MATCH    | LOAN | v1.3.2 | E:\MFS2020 Addons\Airports\Europe\Austria\troglodytus-airport-loan-wiener-neustadt-east\manifest.json
+NO_MATCH    | LOAV | v1.3.1 | E:\MFS2020 Addons\Airports\Europe\Austria\troglodytus-airport-loav-voeslau\manifest.json
+UPDATED     | UMMS | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Belarus\amsim-airport-umms-minsk\manifest.json
+UPDATED     | EBAW | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Belgium\aerosoft-airport-ebaw-antwerp\manifest.json
+NO_MATCH    | RFSB | v2.2.0 | E:\MFS2020 Addons\Airports\Europe\Belgium\rfsb-airport-ebci-brussels-south\manifest.json
+UPDATED     | LBSF | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Bulgaria\flyhigh-airport-lbsf-sofia\manifest.json
+NO_MATCH    | LDSB | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Croatia\davorpuljevic-airport-ldsb-brac\manifest.json
+UPDATED     | LCPH | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Cyprus\mxidesign-airport-lcph-paphos\manifest.json
+NO_MATCH    | LKTB | v1.5.0 | E:\MFS2020 Addons\Airports\Europe\Czech Republic\aerosoft-airport-lktb-brno\manifest.json
+UPDATED     | LKPR | v1.0.4 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Czech Republic\tailstrikedesigns-airport-lkpr-prague\manifest.json
+NO_MATCH    | EKSV | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\4simmers-airport-eksv-skive\manifest.json
+NO_MATCH    | EKCH | v1.6.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\flytampa-airport-ekch-copenhagen-kastrup\manifest.json
+UPDATED     | EKEB | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Denmark\onfinalstudio-airport-ekeb-esbjerg\manifest.json
+NO_MATCH    | ???? | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-ek76-tunoe\manifest.json
+NO_MATCH    | EKAH | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-ekah-aarhus\manifest.json
+NO_MATCH    | EKBI | v1.7.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-ekbi-billund\manifest.json
+NO_MATCH    | EKEL | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-ekel-endelave\manifest.json
+NO_MATCH    | EKHG | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-ekhg-herning\manifest.json
+NO_MATCH    | EKSA | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-eksa-saeby\manifest.json
+UPDATED     | EKSB | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-eksb-sonderborg\manifest.json
+UPDATED     | EKSN | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-eksn-sindal\manifest.json
+NO_MATCH    | EKSS | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-ekss-samsoe\manifest.json
+NO_MATCH    | EKYT | v1.7.0 | E:\MFS2020 Addons\Airports\Europe\Denmark\simnord-airport-ekyt-aalborg\manifest.json
+UPDATED     | EETN | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Estonia\drzewieckidesign-airport-eetn-tallinn\manifest.json
+UPDATED     | EFRO | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Finland\mkstudios-airport-efro-rovaniemi\manifest.json
+UPDATED     | EFTU | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Finland\mmsimulations-airport-eftu-turku\manifest.json
+UPDATED     | LFTZ | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\aerosoft-airport-lftz-st-tropez\manifest.json
+UPDATED     | LFOU | v1.2.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\azurpoly-airport-lfou-cholet\manifest.json
+NO_MATCH    | LFHU | v1.0.6 | E:\MFS2020 Addons\Airports\Europe\France\bkangles-airport-lfhu-alpe-dhuez\manifest.json
+UPDATED     | LFQA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\flyhigh-airport-lfqa-reims\manifest.json
+NO_MATCH    | LFHA | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\France\flyndrive4d-airport-lfha-issoire\manifest.json
+NO_MATCH    | LFHA | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\France\flyndrive4d-airport-lfha-issoire-cervolix\manifest.json
+UPDATED     | LFBT | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\francevfr-airport-lfbt-tarbes-lourdes\manifest.json
+UPDATED     | LFJL | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\francevfr-airport-lfjl-metz-nancy\manifest.json
+UPDATED     | LFSB | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\francevfr-airport-lfsb-basel\manifest.json
+NO_MATCH    | WEST | v1.2.2 | E:\MFS2020 Addons\Airports\Europe\France\francevfr-airports-north-west-vfr-bonus\manifest.json
+NO_MATCH    | ???? | v1.3.0 | E:\MFS2020 Addons\Airports\Europe\France\francevfr-airports-paris-vfr\manifest.json
+NO_MATCH    | EAST | v1.4.0 | E:\MFS2020 Addons\Airports\Europe\France\francevfr-airports-south-east-vfr\manifest.json
+NO_MATCH    | WEST | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\France\francevfr-airports-south-west-vfr\manifest.json
+UPDATED     | LFEQ | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\fsdreamteam-airport-lfeq-quiberon\manifest.json
+UPDATED     | LFGM | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\fsx3d-airport-lfgm-montceau-les-mines\manifest.json
+UPDATED     | LFNA | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\fsx3d-airport-lfna-gap-tallard\manifest.json
+UPDATED     | LFSL | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\heavendesigns-airport-lfsl-brive-souillac\manifest.json
+NO_MATCH    | LFMN | v2.2.0 | E:\MFS2020 Addons\Airports\Europe\France\justsim-airport-lfmn-nice-cote-d-azur\manifest.json
+NO_MATCH    | LFBN | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\France\LFBN - tblfscenery-airport-lfbn-niort\manifest.json
+NO_MATCH    | LFLB | v0.1.0 | E:\MFS2020 Addons\Airports\Europe\France\LFLB - Chambery (alphabiceps)\manifest.json
+NO_MATCH    | LFOB | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\France\LFOB - francevfr-airport-lfob-beauvais\manifest.json
+UPDATED     | LFPL | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\LFPL - flyhigh-airport-lfpl-lognes-emerainville\manifest.json
+NO_MATCH    | LFRI | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\France\LFRI - tblfscenery-airport-lfri-les-ajoncs\manifest.json
+UPDATED     | LFGA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\llh-airport-lfga-colmar\manifest.json
+UPDATED     | LFLP | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\llh-airport-lflp-annecy\manifest.json
+UPDATED     | DZDB | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\llh-heliport-dzdb-chamonix\manifest.json
+UPDATED     | LFIP | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\llhcreations-airport-lfip-peyresourde\manifest.json
+NO_MATCH    | LFBR | v1.0.3 | E:\MFS2020 Addons\Airports\Europe\France\lmtsim-airport-lfbr-muret-lherm\manifest.json
+UPDATED     | LFBP | v2.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\lndesign-airport-lfbp-pau-pyrenees\manifest.json
+UPDATED     | LFRG | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\mxidesign-airport-lfrg-deauville\manifest.json
+NO_MATCH    | LFKJ | v1.3.0 | E:\MFS2020 Addons\Airports\Europe\France\pilotexperiencesim-airport-lfkj-ajaccio\manifest.json
+NO_MATCH    | LFTZ | v1.4.0 | E:\MFS2020 Addons\Airports\Europe\France\pilotexperiencesim-airport-lftz-st-tropez\manifest.json
+UPDATED     | LFLY | v0.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\redwing-airport-lfly-lyon-bron\manifest.json
+NO_MATCH    | LFAT | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\France\sdesign-airport-lfat-le-touquet\manifest.json
+NO_MATCH    | NWWW | v1.2.0 | E:\MFS2020 Addons\Airports\Europe\France\sierrasim-airport-nwww-la-tontouta\manifest.json
+NO_MATCH    | LFVP | v9.5.5 | E:\MFS2020 Addons\Airports\Europe\France\simaddons-airport-lfvp-saint-pierre\manifest.json
+NO_MATCH    | SKDS | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\France\skds-airport-lfrj-landivisiau\manifest.json
+NO_MATCH    | SKDS | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\France\skds-airport-lfsc-colmar-meyenheim\manifest.json
+NO_MATCH    | SKDS | v1.0.4 | E:\MFS2020 Addons\Airports\Europe\France\skds-airport-lfsd-dijon\manifest.json
+NO_MATCH    | SKDS | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\France\skds-airport-lfsr-reims-champagne\manifest.json
+NO_MATCH    | TFFG | v1.1.1 | E:\MFS2020 Addons\Airports\Europe\France\slhsimdesigns-airport-tffg-grand-case\manifest.json
+UPDATED     | TFFJ | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\France\slhsimdesigns-airport-tffj-st-barts\manifest.json
+NO_MATCH    | EDDB | v2.4.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airport-eddb-berlin-brandenburg\manifest.json
+NO_MATCH    | EDER | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airport-eder-wasserkuppe\manifest.json
+NO_MATCH    | EDLI | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airport-edli-bielefeld-windelsbleiche\manifest.json
+NO_MATCH    | EDMA | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airport-edma-augsburg\manifest.json
+NO_MATCH    | EDPC | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airport-edpc-bad-endorf-jolling\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airport-edq1-kronach\manifest.json
+UPDATED     | EDSB | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airport-edsb-karlsruhe-baden-baden\manifest.json
+NO_MATCH    | EDXO | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airport-edxo-st-peter-ording\manifest.json
+NO_MATCH    | EAST | v1.5.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aerosoft-airports-east-frisian-islands\manifest.json
+NO_MATCH    | EDAZ | v1.3.0 | E:\MFS2020 Addons\Airports\Europe\Germany\aviationsimdesign-airport-edaz-schonhagen\manifest.json
+UPDATED     | EDWE | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Germany\aviationsimdesign-airport-edwe-emden\manifest.json
+NO_MATCH    | EDFR | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edfr-rothenburg\manifest.json
+NO_MATCH    | EDMB | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edmb-biberach\manifest.json
+NO_MATCH    | EDMJ | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edmj-jesenwang\manifest.json
+NO_MATCH    | EDMK | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edmk-kempten\manifest.json
+NO_MATCH    | EDML | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edml-landshut\manifest.json
+NO_MATCH    | EDMT | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edmt-tannheim\manifest.json
+NO_MATCH    | EDMW | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edmw-deggendorf\manifest.json
+NO_MATCH    | EDNH | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-ednh-bad-woerishofen\manifest.json
+NO_MATCH    | EDNL | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-ednl-leutkirch-unterzeil\manifest.json
+NO_MATCH    | EDNR | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-ednr-regensburg\manifest.json
+NO_MATCH    | EDPA | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edpa-aalen\manifest.json
+NO_MATCH    | EDPI | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edpi-moosburg\manifest.json
+NO_MATCH    | EDQH | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\cps-airport-edqh-herzogenaurach\manifest.json
+UPDATED     | EDFE | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Germany\flyingd-airport-edfe-egelsbach\manifest.json
+NO_MATCH    | EDQM | v1.2.0 | E:\MFS2020 Addons\Airports\Europe\Germany\fredsairports-airport-edqm-hof-plauen\manifest.json
+NO_MATCH    | EDDT | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Germany\gayasimulations-airport-eddt-berlin-tegel\manifest.json
+UPDATED     | EDDC | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Germany\justsim-airport-eddc-dresden\manifest.json
+NO_MATCH    | EDDV | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Germany\justsim-airport-eddv-hannover\manifest.json
+NO_MATCH    | EDQD | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Germany\mmsimulations-airport-edqd-bayreuth\manifest.json
+NO_MATCH    | RFSB | v1.3.0 | E:\MFS2020 Addons\Airports\Europe\Germany\rfsb-airport-edfh-frankfurt-hahn\manifest.json
+NO_MATCH    | EDDM | v2.2.0 | E:\MFS2020 Addons\Airports\Europe\Germany\simwings-airport-eddm-munich\manifest.json
+NO_MATCH    | LGSR | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Greece\29palms-airport-lgsr-santorini\manifest.json
+UPDATED     | LGSA | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Greece\aerosoft-airport-lgsa-chania\manifest.json
+NO_MATCH    | LGKO | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Greece\atelic-airport-lgko-kos\manifest.json
+NO_MATCH    | LGKO | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Greece\gayasimulations-airport-lgko-kos\manifest.json
+NO_MATCH    | LGKP | v1.1.1 | E:\MFS2020 Addons\Airports\Europe\Greece\ironsim-airport-lgkp-karpathos\manifest.json
+NO_MATCH    | LGIR | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Greece\justsim-airport-lgir-heraklion\manifest.json
+NO_MATCH    | LGRP | v3.0.0 | E:\MFS2020 Addons\Airports\Europe\Greece\justsim-airport-lgrp-rhodes\manifest.json
+UPDATED     | LGKL | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Greece\mxidesign-airport-lgkl-kalamata\manifest.json
+UPDATED     | LGTS | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Greece\mxidesign-airport-lgts-thessaloniki\manifest.json
+UPDATED     | LGZA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Greece\mxidesign-airport-lgza-zakynthos\manifest.json
+UPDATED     | LGIO | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Greece\realturb-airport-lgio-ioannina\manifest.json
+UPDATED     | LGPA | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Greece\simtek-airports-lgpa-lgnx-paros-naxos\manifest.json
+UPDATED     | LGIK | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Greece\terrainystudios-airport-lgik-ikaria-island\manifest.json
+NO_MATCH    | WEST | v1.0.12 | E:\MFS2020 Addons\Airports\Europe\Hungary\lhsimulations-airports-hungary-west\manifest.json
+UPDATED     | BIVM | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Iceland\mmsimulations-airport-bivm-vestmannaeyjar\manifest.json
+UPDATED     | BIEG | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Iceland\stsimulations-airport-bieg-egilsstadir\manifest.json
+UPDATED     | EIKY | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Ireland\inibuilds-airport-eiky-kerry\manifest.json
+NO_MATCH    | EICK | v1.3.0 | E:\MFS2020 Addons\Airports\Europe\Ireland\mkstudios-airport-eick-cork\manifest.json
+NO_MATCH    | LIPV | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Italy\aerosoft-airport-lipv-venice-lido\manifest.json
+UPDATED     | LIPK | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\amsim-airport-lipk-forli\manifest.json
+UPDATED     | LIPY | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\barellimsfsaddon-airport-lipy-ancona\manifest.json
+UPDATED     | LIBP | v2.2.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\bmw-airport-libp-abruzzo\manifest.json
+UPDATED     | LICB | v1.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\bmw-airport-licb-comiso\manifest.json
+NO_MATCH    | LIOL | v1.2.0 | E:\MFS2020 Addons\Airports\Europe\Italy\bmw-airport-liol-san-mauro\manifest.json
+NO_MATCH    | LIRU | v1.3.0 | E:\MFS2020 Addons\Airports\Europe\Italy\bmw-airport-liru-rome-urbe\manifest.json
+NO_MATCH    | LIRQ | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\Italy\gayasimulations-airport-lirq-florence\manifest.json
+NO_MATCH    | LICD | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Italy\jetstream-airport-licd-lampedusa\manifest.json
+NO_MATCH    | LIRA | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Italy\pachilabs-airport-lira-rome-ciampino\manifest.json
+NO_MATCH    | LIRS | v3.0.6 | E:\MFS2020 Addons\Airports\Europe\Italy\projectcoastline-airport-lirs-grosseto\manifest.json
+UPDATED     | LIQL | v1.2.4 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\rcstudio-airport-liql-lucca-tassignano\manifest.json
+UPDATED     | LIRN | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\rdpresets-airport-lirn-naples\manifest.json
+NO_MATCH    | RFSB | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Italy\rfsb-airport-lipr-federico-fellini\manifest.json
+NO_MATCH    | RFSB | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Italy\rfsb-airport-lipx-verona\manifest.json
+UPDATED     | LIMZ | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\saviart-airport-limz-cuneo-levaldigi\manifest.json
+NO_MATCH    | LIMW | v9.6.2 | E:\MFS2020 Addons\Airports\Europe\Italy\simaddons-airport-limw-aosta\manifest.json
+UPDATED     | LICR | v1.0.4 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\tailstrikedesigns-airport-licr-reggio-di-calabria\manifest.json
+UPDATED     | LIRZ | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Italy\tegaairports-airport-lirz-perugia\manifest.json
+UPDATED     | EVLA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Latvia\nksim-airport-evla-liepaja\manifest.json
+UPDATED     | EYPA | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Lithuania\lisium-airport-eypa-palanga\manifest.json
+NO_MATCH    | ELLX | v1.2.1 | E:\MFS2020 Addons\Airports\Europe\Luxembourg\justsim-airport-ellx-luxembourg\manifest.json
+UPDATED     | LWSK | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Macedonia\aerosoft-airport-lwsk-skopje\manifest.json
+NO_MATCH    | EHAM | v1.2.0 | E:\MFS2020 Addons\Airports\Europe\Netherlands\flytampa-airport-eham-amsterdam\manifest.json
+NO_MATCH    | TNCC | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Netherlands\ABC islands\tropicalsim-airport-tncc-curacao\manifest.json
+NO_MATCH    | ENAT | v1.2.0 | E:\MFS2020 Addons\Airports\Europe\Norway\aerosoft-airport-enat-alta\manifest.json
+NO_MATCH    | ENMH | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\Norway\aerosoft-airport-enmh-mehamn\manifest.json
+UPDATED     | ENOV | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Norway\aerosoft-airport-enov-orsta-volda\manifest.json
+NO_MATCH    | ENST | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Norway\aerosoft-airport-enst-sandnessjoen\manifest.json
+UPDATED     | ENVA | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Norway\aerosoft-airport-enva-trondheim\manifest.json
+NO_MATCH    | ENCN | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Norway\gayasimulations-airport-encn-kristiansand\manifest.json
+UPDATED     | ENBN | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Norway\onfinalstudio-airport-enbn-bronnoysund\manifest.json
+UPDATED     | ENBV | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Norway\onfinalstudio-airport-enbv-berlevag\manifest.json
+UPDATED     | ENKR | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Norway\onfinalstudio-airport-enkr-kirkenes\manifest.json
+UPDATED     | ENSK | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Norway\onfinalstudio-airport-ensk-stokmarknes\manifest.json
+UPDATED     | ENFL | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Norway\sdesign-airport-enfl-floro\manifest.json
+NO_MATCH    | ENSO | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Norway\simportteam-airport-enso-stord\manifest.json
+UPDATED     | ENBR | v1.0.6 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Norway\slv-airport-enbr-bergen\manifest.json
+UPDATED     | EPBY | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Poland\drzewieckidesign-airport-epby-bydgoszcz\manifest.json
+UPDATED     | EPMO | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Poland\drzewieckidesign-airport-epmo-warsaw-modlin\manifest.json
+UPDATED     | EPRZ | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Poland\drzewieckidesign-airport-eprz-rzeszow-jasionka\manifest.json
+UPDATED     | EPSY | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Poland\drzewieckidesign-airport-epsy-olsztyn-mazury\manifest.json
+UPDATED     | EPZG | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Poland\drzewieckidesign-airport-epzg-zielona-gora\manifest.json
+NO_MATCH    | EPKT | v2.3.2 | E:\MFS2020 Addons\Airports\Europe\Poland\pgcompany-airport-epkt-katowice\manifest.json
+UPDATED     | LPPD | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Portugal\inibuilds-airport-lppd-ponta-delgada\manifest.json
+NO_MATCH    | LPPR | v1.3.1 | E:\MFS2020 Addons\Airports\Europe\Portugal\mkstudios-airport-lppr-porto\manifest.json
+UPDATED     | LPPS | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Portugal\simportteam-airport-lpps-porto-santo\manifest.json
+NO_MATCH    | LPVL | v1.2.2 | E:\MFS2020 Addons\Airports\Europe\Portugal\sws-airport-lpvl-maia-vilar-da-luz\manifest.json
+NO_MATCH    | LPCO | v1.2.0 | E:\MFS2020 Addons\Airports\Europe\Portugal\vrefsimulations-airport-lpco-coimbra\manifest.json
+NO_MATCH    | LPLA | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Portugal\Region of the Azores\tropicalsim-airport-lpla-lajes\manifest.json
+NO_MATCH    | LPSJ | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Portugal\Region of the Azores\tropicalsim-airport-lpsj-sao-jorge\manifest.json
+NO_MATCH    | LROP | v2.4.0 | E:\MFS2020 Addons\Airports\Europe\Romania\barellimsfsaddon-airport-lrop-bucharest\manifest.json
+NO_MATCH    | USSK | v1.4.0 | E:\MFS2020 Addons\Airports\Europe\Russia\aerowulf-airport-ussk-uktus\manifest.json
+NO_MATCH    | USSS | v1.4.0 | E:\MFS2020 Addons\Airports\Europe\Russia\aerowulf-airport-usss-koltsovo\manifest.json
+NO_MATCH    | USSS | v1.4.0 | E:\MFS2020 Addons\Airports\Europe\Russia\aerowulf-airport-usss-koltsovo-around\manifest.json
+NO_MATCH    | XSSL | v1.4.0 | E:\MFS2020 Addons\Airports\Europe\Russia\aerowulf-airport-xssl-loginovo\manifest.json
+UPDATED     | CITY | v1.4.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Russia\aerowulf-city-ekaterinburg\manifest.json
+NO_MATCH    | USSS | v1.4.0 | E:\MFS2020 Addons\Airports\Europe\Russia\aerowulf-airport-usss-koltsovo\Extras\aerowulf-airport-usss-koltsovo-winter\manifest.json
+UPDATED     | LIEE | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Sardinia\amsim-airport-liee-cagliari-elmas\manifest.json
+UPDATED     | LJLJ | v1.3.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Slovenia\scenicroutes-airport-ljlj-ljubljana\manifest.json
+NO_MATCH    | LEVT | v1.2.0 | E:\MFS2020 Addons\Airports\Europe\Spain\aerosoft-airport-levt-vitoria\manifest.json
+UPDATED     | LELN | v1.6.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\bmw-airport-leln-leon\manifest.json
+NO_MATCH    | LEVC | v2.5.0 | E:\MFS2020 Addons\Airports\Europe\Spain\bmw-airport-levc-valencia\manifest.json
+UPDATED     | LEVX | v1.4.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\bmw-airport-levx-vigo\manifest.json
+UPDATED     | DSKY | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\dsky-airport-gvba-rabil-aristides-pereira\manifest.json
+UPDATED     | LEAP | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\footagedesigns-airport-leap-empuriabrava\manifest.json
+NO_MATCH    | LECD | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Spain\footagedesigns-airport-lecd-la-cerdanya\manifest.json
+UPDATED     | LEIG | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\footagedesigns-airport-leig-igualada\manifest.json
+UPDATED     | LELL | v2.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\footagedesigns-airport-lell-sabadell\manifest.json
+UPDATED     | GCGM | v1.1.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\GCGM - La Gomera (SimWings)\manifest.json
+UPDATED     | GCLA | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\GCLA - La Palma (SimWings)\manifest.json
+UPDATED     | GCLP | v1.0.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\GCLP - Gran Canaria (SimWings)\manifest.json
+UPDATED     | GCRR | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\GCRR - Lanzarote (JustFlight)\manifest.json
+UPDATED     | LEPA | v1.1.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\justflight-airport-lepa-palma-de-mallorca\manifest.json
+UPDATED     | LEGE | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\mkstudios-airport-lege-girona\manifest.json
+UPDATED     | LECH | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\mmsimulations-airport-lech-castellon\manifest.json
+UPDATED     | LEAL | v1.5.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\pilots-airport-leal-alicante\manifest.json
+UPDATED     | GVAC | v2.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\rmstudios-airport-gvac-amilcar-cabral\manifest.json
+UPDATED     | LEAM | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\tdm-airport-leam-almeria\manifest.json
+UPDATED     | LEST | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\tdmscenerydesign-airport-lest-santiago-rosalia\manifest.json
+UPDATED     | GCXO | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Spain\Tenerife_Norte_Los_Rodeos-Wolkenblau_v1.1\manifest.json
+UPDATED     | ESKN | v1.1.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Sweden\mmsimulations-airport-eskn-stockholm-skavsta\manifest.json
+NO_MATCH    | ORBX | v1.4.2 | E:\MFS2020 Addons\Airports\Europe\Sweden\orbx-airport-essa-stockholm-arlanda\manifest.json
+NO_MATCH    | LSMF | v1.2.2 | E:\MFS2020 Addons\Airports\Europe\Switzerland\agsim-airport-lsmf-mollis\manifest.json
+UPDATED     | LSGC | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lsgc-les-eplatures\manifest.json
+NO_MATCH    | LSPL | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lspl-langenthal\manifest.json
+UPDATED     | LSPW | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lspw-wangen-lachen\manifest.json
+UPDATED     | LSZC | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lszc-buochs\manifest.json
+UPDATED     | LSZF | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lszf-birrfeld\manifest.json
+NO_MATCH    | LSZK | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lszk-speck\manifest.json
+UPDATED     | LSZL | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lszl-locarno\manifest.json
+UPDATED     | LSZQ | v1.0.4 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lszq-bressaucourt\manifest.json
+NO_MATCH    | LSZU | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\flylogic-airport-lszu-buttwil\manifest.json
+NO_MATCH    | HAWK | v1.2.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\hawk-airport-lsto-motiers\manifest.json
+NO_MATCH    | HAWK | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\hawk-airport-lszj-courtelary\manifest.json
+NO_MATCH    | LSGK | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\mmsimulations-airport-lsgk-saanen-gstaad\manifest.json
+NO_MATCH    | LSMC | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\modelinstruments-airport-lsmc-ulrichen\manifest.json
+NO_MATCH    | LSGB | v0.1.2 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-airport-lsgb-bex\manifest.json
+NO_MATCH    | LSGE | v0.1.2 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-airport-lsge-ecuvillens\manifest.json
+NO_MATCH    | LSGT | v0.1.4 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-airport-lsgt-gruyeres\manifest.json
+NO_MATCH    | LSDX | v0.1.5 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-heliport-lsdx-grande-dixence\manifest.json
+NO_MATCH    | LSEZ | v0.2.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-heliport-lsez-zermatt\manifest.json
+UPDATED     | LSHS | v0.1.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-heliport-lshs-sion-hopital\manifest.json
+NO_MATCH    | LSHU | v0.1.2 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-heliport-lshu-geneva-hospital\manifest.json
+NO_MATCH    | LSHV | v0.1.5 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-heliport-lshv-lausanne-hospital\manifest.json
+UPDATED     | LSXL | v0.1.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-heliport-lsxl-lauterbrunnen\manifest.json
+NO_MATCH    | LSXX | v0.1.2 | E:\MFS2020 Addons\Airports\Europe\Switzerland\redwing-heliport-lsxx-cabanes\manifest.json
+NO_MATCH    | LSGS | v9.6.2 | E:\MFS2020 Addons\Airports\Europe\Switzerland\simaddons-airport-lsgs-sion\manifest.json
+NO_MATCH    | LSGR | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\Switzerland\simultech-airport-lsgr-reichenbach\manifest.json
+UPDATED     | LSPU | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\simultech-airport-lspu-muenster\manifest.json
+UPDATED     | LSTS | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Switzerland\stsimulations-airport-lsts-st-stephan\manifest.json
+NO_MATCH    | LSTZ | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Switzerland\taburet-airport-lstz-zweisimmen\manifest.json
+NO_MATCH    | LTAL | v2.0.0 | E:\MFS2020 Addons\Airports\Europe\Turkey\acscenery-airport-ltal-kastamonu\manifest.json
+UPDATED     | LTBS | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Turkey\mmsimulations-airport-ltbs-dalaman\manifest.json
+UPDATED     | LTFE | v0.5.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Turkey\mxidesign-airport-ltfe-milas-bodrum\manifest.json
+UPDATED     | LTAF | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Turkey\stsimulations-airport-ltaf-adana\manifest.json
+UPDATED     | LTFG | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Turkey\stsimulations-airport-ltfg-gazipasa-alanya\manifest.json
+NO_MATCH    | UKKM | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\Ukraine\gazsim-airport-ukkm-antonov\manifest.json
+UPDATED     | UKBB | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\Ukraine\pyreeguedevco-airport-ukbb-boryspil\manifest.json
+NO_MATCH    | UKLL | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\Ukraine\pyreeguedevco-airport-ukll-lviv-danylo-halytskyi\manifest.json
+NO_MATCH    | UKOO | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\Ukraine\pyreeguedevco-airport-ukoo-odesa\manifest.json
+UPDATED     | EGTE | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\aerosoft-airport-egte-exeter\manifest.json
+NO_MATCH    | EGTP | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\aerosoft-airport-egtp-perranporth\manifest.json
+NO_MATCH    | EGCK | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Airport - EGCK - Caernarfon (orbx)\manifest.json
+UPDATED     | EGKB | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Airport - EGKB - london-biggin-hill (pilotplus)\manifest.json
+NO_MATCH    | EGKR | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Airport - EGKR - Redhill (burningbluedesign)\manifest.json
+NO_MATCH    | EGLK | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Airport - EGLK - Blackbushe (SC Designs)\manifest.json
+NO_MATCH    | EGSG | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Airport - EGSG - Stapleford (orbx)\manifest.json
+UPDATED     | EGTB | v1.1.5 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Airport - EGTB - Wycombe Airpark (pilotplus)\manifest.json
+NO_MATCH    | EGTF | v1.0.3 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Airport - EGTF - Fairoaks (burningbluedesign)\manifest.json
+NO_MATCH    | EGTK | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Airport - EGTK - Oxford (pilotplus)\manifest.json
+NO_MATCH    | EGCV | v0.1.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\bailsoft-airport-egcv-sleap\manifest.json
+NO_MATCH    | EGJA | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\boundless-airport-egja-alderney\manifest.json
+NO_MATCH    | EGBM | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egbm-tatenhill\manifest.json
+NO_MATCH    | EGBT | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egbt-turweston\manifest.json
+NO_MATCH    | EGCL | v1.0.7 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egcl-fenland\manifest.json
+NO_MATCH    | EGCW | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egcw-welshpool\manifest.json
+NO_MATCH    | EGHA | v1.5.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egha-compton-abbas\manifest.json
+NO_MATCH    | EGHF | v1.3.1 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-eghf-solent\manifest.json
+NO_MATCH    | EGHJ | v1.5.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-eghj-bembridge\manifest.json
+NO_MATCH    | EGHN | v1.5.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-eghn-sandown\manifest.json
+NO_MATCH    | EGHO | v1.0.5 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egho-thruxton\manifest.json
+NO_MATCH    | EGHP | v2.0.2 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-eghp-popham\manifest.json
+NO_MATCH    | EGHR | v2.1.5 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-eghr-goodwood\manifest.json
+NO_MATCH    | EGKH | v1.3.1 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egkh-headcorn\manifest.json
+NO_MATCH    | EGLA | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egla-bodmin\manifest.json
+NO_MATCH    | EGLD | v1.0.3 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egld-denham\manifest.json
+NO_MATCH    | EGLF | v1.43.2 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-eglf-farnborough\manifest.json
+NO_MATCH    | EGLM | v1.0.8 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-eglm-white-waltham\manifest.json
+NO_MATCH    | EGMD | v1.3.9 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egmd-lydd\manifest.json
+NO_MATCH    | EGML | v1.5.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egml-damyns-hall\manifest.json
+NO_MATCH    | EGMT | v1.5.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egmt-thurrock\manifest.json
+NO_MATCH    | EGNW | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egnw-wickenby\manifest.json
+NO_MATCH    | EGSL | v1.0.12 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egsl-andrewsfield\manifest.json
+NO_MATCH    | EGSP | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egsp-sibson\manifest.json
+NO_MATCH    | EGSR | v1.1.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egsr-earls-colne\manifest.json
+NO_MATCH    | EGTH | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egth-airshow\manifest.json
+NO_MATCH    | EGTH | v1.0.2 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egth-old-warden\manifest.json
+NO_MATCH    | EGTO | v1.0.6 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egto-rochester\manifest.json
+NO_MATCH    | EGZK | v1.5.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-airport-egzk-stow-maries\manifest.json
+NO_MATCH    | ???? | v1.0.1 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\burningbluedesign-solar-uk\manifest.json
+UPDATED     | EGCN | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\dominicdesignteam-airport-egcn-doncaster\manifest.json
+UPDATED     | EGFE | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\flyhigh-airport-egfe-haverfordwest\manifest.json
+NO_MATCH    | EGKK | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\inibuilds-airport-egkk-gatwick\manifest.json
+NO_MATCH    | EGLL | v3.1.4 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\inibuilds-airport-egll-heathrow\manifest.json
+NO_MATCH    | ORBX | v1.2.1 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\orbx-airport-egka-shoreham\manifest.json
+UPDATED     | EGFH | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\pilotplus-airport-egfh-swansea\manifest.json
+UPDATED     | LXGB | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\rdpresets-airport-lxgb-gibraltar\manifest.json
+UPDATED     | EGHE | v1.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\realvfr-airport-eghe-st-mary\manifest.json
+NO_MATCH    | EGHD | v1.0.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\realvfr-airports-eghd-plyf-plymouth\manifest.json
+NO_MATCH    | MWCB | v2.0.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Cayman Islands\rwy26-airport-mwcb-charles-kirk\manifest.json
+NO_MATCH    | MWCL | v2.0.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Cayman Islands\rwy26-airport-mwcl-little-cayman\manifest.json
+NO_MATCH    | MWCR | v2.0.0 | E:\MFS2020 Addons\Airports\Europe\United Kingdom\Cayman Islands\rwy26-airport-mwcr-owen-roberts\manifest.json
+NO_MATCH    | CFSS | v1.1.0 | E:\MFS2020 Addons\Airports\North America\Canada\cfss-airport-cak3-delta-heritage\manifest.json
+NO_MATCH    | CFSS | v1.0.0 | E:\MFS2020 Addons\Airports\North America\Canada\cfss-airport-cyaz-tofino-long-beach\manifest.json
+NO_MATCH    | CFSS | v1.1.0 | E:\MFS2020 Addons\Airports\North America\Canada\cfss-airport-cysn-niagara-district\manifest.json
+UPDATED     | CYEG | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\fsimstudios-airport-cyeg-edmonton\manifest.json
+NO_MATCH    | CYHZ | v2.1.0 | E:\MFS2020 Addons\Airports\North America\Canada\fsimstudios-airport-cyhz-halifax-stanfield\manifest.json
+UPDATED     | CYLW | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\fsimstudios-airport-cylw-kelowna\manifest.json
+UPDATED     | CYTZ | v1.2.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\fsimstudios-airport-cytz-billy-bishop\manifest.json
+UPDATED     | CYXU | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\fsimstudios-airport-cyxu-london\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\Canada\kstorm-airports-float-plane-adventures-1\manifest.json
+UPDATED     | CYZF | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\projectmax-airport-cyzf-yellowknife\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\Canada\regdesigns-airport-cnc4-guelph\manifest.json
+UPDATED     | CYKF | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\regdesigns-airport-cykf-region-of-waterloo\manifest.json
+UPDATED     | CZBA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\regdesigns-airport-czba-burlington\manifest.json
+NO_MATCH    | ???? | v1.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\romandesign-airport-cnc3-brampton-caledon\manifest.json
+UPDATED     | CYKZ | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\romandesign-airport-cykz-buttonville\manifest.json
+UPDATED     | CYOO | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\romandesign-airport-cyoo-oshawa\manifest.json
+UPDATED     | CYOW | v1.4.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Canada\romandesign-airport-cyow-macdonald-cartier\manifest.json
+NO_MATCH    | ???? | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-ccq3-debert\manifest.json
+NO_MATCH    | ???? | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-ccw3-waterville\manifest.json
+NO_MATCH    | ???? | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-ccw4-stanley\manifest.json
+NO_MATCH    | ???? | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cdh3-finlay\manifest.json
+NO_MATCH    | ???? | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cdw2-baddeck\manifest.json
+NO_MATCH    | ???? | v9.6.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cmb2-meadowbank\manifest.json
+NO_MATCH    | CWSA | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cwsa-sable-island\manifest.json
+NO_MATCH    | CYAU | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyau-liverpool\manifest.json
+NO_MATCH    | CYCG | v9.5.5 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cycg-castlegar\manifest.json
+NO_MATCH    | CYDF | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cydf-deer-lake\manifest.json
+NO_MATCH    | CYEU | v9.5.3 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyeu-eureka\manifest.json
+NO_MATCH    | CYFC | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyfc-fredericton\manifest.json
+NO_MATCH    | CYGK | v9.6.2 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cygk-kingston\manifest.json
+NO_MATCH    | CYGR | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cygr-iles-de-la-madeleine\manifest.json
+NO_MATCH    | CYGZ | v9.5.3 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cygz-grise-fiord\manifest.json
+NO_MATCH    | CYHM | v9.6.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyhm-hamilton\manifest.json
+NO_MATCH    | CYID | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyid-digby\manifest.json
+NO_MATCH    | CYKA | v9.6.3 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyka-kamloops\manifest.json
+NO_MATCH    | CYLT | v9.5.3 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cylt-alert\manifest.json
+NO_MATCH    | CYMM | v9.5.5 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cymm-fort-mcmurray\manifest.json
+NO_MATCH    | CYPD | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cypd-port-hawkesbury\manifest.json
+NO_MATCH    | CYPR | v9.6.2 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cypr-prince-rupert\manifest.json
+NO_MATCH    | CYQI | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyqi-yarmouth\manifest.json
+NO_MATCH    | CYQM | v9.5.6 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyqm-greater-moncton\manifest.json
+NO_MATCH    | CYQR | v9.5.5 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyqr-regina\manifest.json
+NO_MATCH    | CYQT | v9.6.1 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyqt-thunderbay\manifest.json
+NO_MATCH    | CYQX | v9.6.2 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyqx-gander\manifest.json
+NO_MATCH    | CYQY | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyqy-sydney\manifest.json
+NO_MATCH    | CYRT | v9.6.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyrt-rankin-inlet\manifest.json
+NO_MATCH    | CYRV | v9.6.2 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyrv-revelstoke\manifest.json
+NO_MATCH    | CYSJ | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cysj-st-john\manifest.json
+NO_MATCH    | CYTN | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cytn-trenton\manifest.json
+NO_MATCH    | CYVP | v9.6.2 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyvp-kuujjuaq\manifest.json
+NO_MATCH    | CYWG | v9.6.2 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cywg-winnipeg\manifest.json
+NO_MATCH    | CYXE | v9.5.6 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyxe-saskatoon\manifest.json
+NO_MATCH    | CYYC | v9.6.1 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyyc-calgary\manifest.json
+NO_MATCH    | CYYG | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyyg-charlottetown\manifest.json
+NO_MATCH    | CYYT | v9.6.3 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-cyyt-st-johns\manifest.json
+NO_MATCH    | CZBF | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-airport-czbf-bathurst\manifest.json
+NO_MATCH    | CYCX | v9.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-heliport-cycx-gagetown\manifest.json
+NO_MATCH    | ???? | v9.6.2 | E:\MFS2020 Addons\Airports\North America\Canada\simaddons-scenery-1000-islands\manifest.json
+NO_MATCH    | PITT | v1.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\wca-airport-caj8-pitt\manifest.json
+NO_MATCH    | ???? | v1.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\wca-airport-cau8-rivers\manifest.json
+NO_MATCH    | ???? | v1.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\wca-airport-caw1-shearwater\manifest.json
+NO_MATCH    | PORT | v1.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\wca-airport-caw5-hardy\manifest.json
+NO_MATCH    | BASE | v1.5.0 | E:\MFS2020 Addons\Airports\North America\Canada\wca-airport-cpw9-alberni\manifest.json
+NO_MATCH    | BGGH | v1.1.0 | E:\MFS2020 Addons\Airports\North America\Greenland\fsimstudios-airport-bggh-nuuk\manifest.json
+NO_MATCH    | MMPR | v1.0.0 | E:\MFS2020 Addons\Airports\North America\Mexico\feelthere-airport-mmpr-puerto-vallarta\manifest.json
+NO_MATCH    | MMCZ | v1.1.2 | E:\MFS2020 Addons\Airports\North America\Mexico\flymex-airport-mmcz-cozumel\manifest.json
+NO_MATCH    | MMMX | v1.0.5 | E:\MFS2020 Addons\Airports\North America\Mexico\flymex-airport-mmmx-mexico-city\manifest.json
+UPDATED     | MMCV | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Mexico\magsoftstudios-airport-mmcv-ciudad-victoria\manifest.json
+NO_MATCH    | MMGL | v3.1.0 | E:\MFS2020 Addons\Airports\North America\Mexico\magsoftstudios-airport-mmgl-guadalajara\manifest.json
+UPDATED     | MMJC | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Mexico\magsoftstudios-airport-mmjc-jorge-jimenez-cantu\manifest.json
+UPDATED     | MMMY | v2.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\Mexico\magsoftstudios-airport-mmmy-monterrey\manifest.json
+UPDATED     | KEKA | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\4simmers-airport-keka-murray-field\manifest.json
+NO_MATCH    | KAIO | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\adi-airport-kaio-atlantic\manifest.json
+NO_MATCH    | KTNP | v1.0.1 | E:\MFS2020 Addons\Airports\North America\United States\aerosoft-airport-ktnp-twentynine-palms\manifest.json
+UPDATED     | PAEM | v8.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\avalonweb-airport-paem-emmonak\manifest.json
+NO_MATCH    | COVE | v1.2.0 | E:\MFS2020 Addons\Airports\North America\United States\backwoodstudios-airport-og31-shady-cove\manifest.json
+NO_MATCH    | KBAB | v1.0.5 | E:\MFS2020 Addons\Airports\North America\United States\blackbirdsims-airport-kbab-beale-afb\manifest.json
+UPDATED     | KDAB | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\bmworldamsim-airport-kdab-daytona-beach\manifest.json
+NO_MATCH    | KMIA | v1.2.5 | E:\MFS2020 Addons\Airports\North America\United States\bmworldamsim-airport-kmia-miami\manifest.json
+NO_MATCH    | KOAK | v1.1.0 | E:\MFS2020 Addons\Airports\North America\United States\bmworldamsim-airport-koak-oakland\manifest.json
+NO_MATCH    | KSFO | v1.7.0 | E:\MFS2020 Addons\Airports\North America\United States\bmworldamsim-airport-ksfo-san-francisco\manifest.json
+NO_MATCH    | ???? | v1.3.0 | E:\MFS2020 Addons\Airports\North America\United States\creativemesh-airport-3u2-johnson-creek\manifest.json
+NO_MATCH    | ???? | v1.1.0 | E:\MFS2020 Addons\Airports\North America\United States\creativemesh-airports-0u3-d47-mahoney-creek\manifest.json
+UPDATED     | KCDW | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\dcscenery-airport-kcdw-essex\manifest.json
+UPDATED     | KTBR | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\dcscenery-airport-ktbr-statesboro\manifest.json
+UPDATED     | PACV | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\dcscenery-airport-pacv-merle-k-smith\manifest.json
+NO_MATCH    | ???? | v1.3.0 | E:\MFS2020 Addons\Airports\North America\United States\dcscenery-airport-x06-arcadia\manifest.json
+UPDATED     | PAKW | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\dcscenerydesign-airport-pakw-klawock\manifest.json
+UPDATED     | KELP | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\dominicdesignteam-airport-kelp-el-paso\manifest.json
+UPDATED     | KPHF | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\doublet-airport-kphf-newport-news\manifest.json
+UPDATED     | KTEB | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\dreamflightstudios-airport-kteb-teterboro\manifest.json
+UPDATED     | KDCA | v1.4.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\drzewieckidesign-airport-kdca-washington\manifest.json
+UPDATED     | KEWR | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\drzewieckidesign-airport-kewr-newark-liberty\manifest.json
+NO_MATCH    | FORT | v1.2.2 | E:\MFS2020 Addons\Airports\North America\United States\esd-airport-8ak5-fort-crosby\manifest.json
+UPDATED     | KRDU | v2.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\feelthere-airport-krdu-raleigh-durham\manifest.json
+NO_MATCH    | KSFO | v1.2.1 | E:\MFS2020 Addons\Airports\North America\United States\flightbeam-airport-ksfo-san-francisco\manifest.json
+UPDATED     | KCRP | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\flyhigh-airport-kcrp-corpus-christi\manifest.json
+NO_MATCH    | KPVD | v1.4.0 | E:\MFS2020 Addons\Airports\North America\United States\flyhigh-airport-kpvd-rhode-island\manifest.json
+NO_MATCH    | KRSW | v0.1.0 | E:\MFS2020 Addons\Airports\North America\United States\flyhigh-airport-krsw-southwest-florida\manifest.json
+UPDATED     | KVPS | v3.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\flyhigh-airport-kvps-destin-fort-walton\manifest.json
+NO_MATCH    | KABE | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kabe-lehigh-valley\manifest.json
+NO_MATCH    | KAGC | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kagc-allegheny-county\manifest.json
+NO_MATCH    | KAVL | v2.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kavl-asheville\manifest.json
+NO_MATCH    | KAVP | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kavp-wilkes-barre\manifest.json
+NO_MATCH    | KAZO | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kazo-kalamazoo\manifest.json
+NO_MATCH    | KBGR | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kbgr-bangor\manifest.json
+NO_MATCH    | KBHM | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kbhm-birmingham\manifest.json
+NO_MATCH    | KDSM | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kdsm-des-moines\manifest.json
+NO_MATCH    | KHFD | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-khfd-hartford-brainard\manifest.json
+NO_MATCH    | KLAL | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-klal-lakeland\manifest.json
+UPDATED     | KMGM | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-kmgm-montgomery\manifest.json
+UPDATED     | KTRI | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-ktri-tri-cities\manifest.json
+UPDATED     | KTYS | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\fsxcenery-airport-ktys-mcghee-tyson\manifest.json
+NO_MATCH    | KIAD | v1.1.0 | E:\MFS2020 Addons\Airports\North America\United States\glideslope-airport-kiad-washington-dulles\manifest.json
+NO_MATCH    | KMIA | v1.3.0 | E:\MFS2020 Addons\Airports\North America\United States\glideslope-airport-kmia-miami\manifest.json
+NO_MATCH    | KATL | v2.2.0 | E:\MFS2020 Addons\Airports\North America\United States\imaginesim-airport-katl-jackson-atlanta\manifest.json
+NO_MATCH    | KDFW | v1.1.2 | E:\MFS2020 Addons\Airports\North America\United States\imaginesim-airport-kdfw-dallas-fort-worth\manifest.json
+NO_MATCH    | KLAX | v1.3.1 | E:\MFS2020 Addons\Airports\North America\United States\inibuilds-airport-klax-los-angeles\manifest.json
+UPDATED     | KSAT | v1.0.9 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\inibuilds-airport-ksat-san-antonio\manifest.json
+UPDATED     | KFFZ | v1.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\jeppeson2001-airport-kffz-falcon-field\manifest.json
+UPDATED     | KSBP | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\justflight-airport-ksbp-san-luis-obispo\manifest.json
+UPDATED     | KSZP | v1.3.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\justflight-airport-kszp-santa-paula\manifest.json
+UPDATED     | KJZP | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\latavoadora-airport-kjzp-pickens-county\manifest.json
+UPDATED     | KLSV | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\latinvfr-airport-klsv-nellis\manifest.json
+NO_MATCH    | LVFR | v1.0.3 | E:\MFS2020 Addons\Airports\North America\United States\lvfr-airport-kbdl-bradley\manifest.json
+NO_MATCH    | LVFR | v1.0.5 | E:\MFS2020 Addons\Airports\North America\United States\lvfr-airport-kmsy-louis-armstrong-new-orleans\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\mpscenery-airport-s68-orofino\manifest.json
+UPDATED     | KORH | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\mxidesign-airport-korh-worcester\manifest.json
+NO_MATCH    | PAWD | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\northernskystudio-airport-pawd-seward\manifest.json
+NO_MATCH    | ???? | v1.1.0 | E:\MFS2020 Addons\Airports\North America\United States\nss-airport-hi01-princeville\manifest.json
+NO_MATCH    | PAEN | v1.2.0 | E:\MFS2020 Addons\Airports\North America\United States\nss-airport-paen-kenai\manifest.json
+NO_MATCH    | PASI | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\nss-airport-pasi-sitka\manifest.json
+NO_MATCH    | PAWG | v1.2.0 | E:\MFS2020 Addons\Airports\North America\United States\nss-airport-pawg-wrangell\manifest.json
+NO_MATCH    | PHHN | v1.3.0 | E:\MFS2020 Addons\Airports\North America\United States\nss-airport-phhn-hana\manifest.json
+NO_MATCH    | PHJH | v1.2.0 | E:\MFS2020 Addons\Airports\North America\United States\nss-airport-phjh-kapalua\manifest.json
+NO_MATCH    | ORBX | v3.0.7 | E:\MFS2020 Addons\Airports\North America\United States\orbx-airport-f62-hayfork\manifest.json
+UPDATED     | ORBX | v2.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\orbx-airport-kbur-hollywood-burbank\manifest.json
+UPDATED     | ORBX | v2.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\orbx-airport-kmyl-mccall\manifest.json
+UPDATED     | ORBX | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\orbx-airports-idaho-fire-lookouts\manifest.json
+NO_MATCH    | ???? | v1.0.1 | E:\MFS2020 Addons\Airports\North America\United States\p42-airport-42cm-cedar-mountain\manifest.json
+NO_MATCH    | ???? | v1.4.0 | E:\MFS2020 Addons\Airports\North America\United States\p42-airport-42hb-hogsback-ranch\manifest.json
+NO_MATCH    | ???? | v1.4.0 | E:\MFS2020 Addons\Airports\North America\United States\p42-airport-42st-sharktooth-ridge\manifest.json
+NO_MATCH    | ???? | v1.0.2 | E:\MFS2020 Addons\Airports\North America\United States\p42-airport-56wv-cheat-island\manifest.json
+NO_MATCH    | WVCH | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\p42-airport-wvch-cheat-island\manifest.json
+NO_MATCH    | ???? | v1.2.0 | E:\MFS2020 Addons\Airports\North America\United States\pilots-airport-2nc0-mountain-air\manifest.json
+UPDATED     | KCDK | v1.7.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\pilots-airport-kcdk-george-t-lewis\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\pilots-airport-w24-falwell\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\projectmax-airport-1aa0-dallas-bay\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\projectmax-airport-80tn-big-t\manifest.json
+NO_MATCH    | KSGU | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\propairflight-ksgu-airport-st-george\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\rds-airport-nc06-elk-river\manifest.json
+UPDATED     | PADQ | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\realworldscenery-airport-padq-kodiak-benny-benson\manifest.json
+NO_MATCH    | PAFA | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\realworldscenery-airport-pafa-fairbanks\manifest.json
+UPDATED     | PAHO | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\realworldscenery-airport-paho-homer\manifest.json
+NO_MATCH    | ???? | v2.3.3 | E:\MFS2020 Addons\Airports\North America\United States\rmstudios-airport-08r-richmond\manifest.json
+UPDATED     | KDNL | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\rmstudios-airport-kdnl-daniel-field\manifest.json
+NO_MATCH    | ???? | v1.1.1 | E:\MFS2020 Addons\Airports\North America\United States\rmstudios-airport-n43-braden-airpark\manifest.json
+UPDATED     | KPGD | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\simsoft-airport-kpgd-punta-gorda\manifest.json
+NO_MATCH    | KROA | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\skylinesimulations-airport-kroa-roanoke\manifest.json
+UPDATED     | PHDH | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\southoakco-airport-phdh-dillingham\manifest.json
+NO_MATCH    | PHLU | v1.4.0 | E:\MFS2020 Addons\Airports\North America\United States\southoakco-airport-phlu-kalaupapa\manifest.json
+UPDATED     | PHPA | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\southoakco-airport-phpa-port-allen\manifest.json
+NO_MATCH    | KAFW | v2.1.0 | E:\MFS2020 Addons\Airports\North America\United States\stealthyduck-airport-kafw-fort-worth\manifest.json
+NO_MATCH    | ???? | v1.3.0 | E:\MFS2020 Addons\Airports\North America\United States\terrapearl-airport-11s-sekiu\manifest.json
+NO_MATCH    | PHMK | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\terrapearlstudios-airport-phmk-molokai\manifest.json
+NO_MATCH    | KABQ | v1.1.0 | E:\MFS2020 Addons\Airports\North America\United States\tropicalsim-airport-kabq-albuquerque\manifest.json
+NO_MATCH    | KMCI | v2.0.1 | E:\MFS2020 Addons\Airports\North America\United States\tropicalsim-airport-kmci-kansas-city\manifest.json
+UPDATED     | KHOU | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\txnsim-airport-khou-houston\manifest.json
+UPDATED     | KHND | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\uk2000scenery-airport-khnd-henderson\manifest.json
+UPDATED     | KBOI | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\verticalsim-airport-kboi-boise\manifest.json
+NO_MATCH    | KHTS | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\verticalsim-airport-khts-huntington\manifest.json
+UPDATED     | KOMA | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\verticalsim-airport-koma-eppley\manifest.json
+NO_MATCH    | KONT | v1.1.0 | E:\MFS2020 Addons\Airports\North America\United States\verticalsim-airport-kont-ontario\manifest.json
+UPDATED     | KPCM | v1.4.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\verticalsim-airport-kpcm-plant-city\manifest.json
+NO_MATCH    | KMAF | v1.0.1 | E:\MFS2020 Addons\Airports\North America\United States\vpilotdesigns-airport-kmaf-midland\manifest.json
+NO_MATCH    | VREF | v3.0.0 | E:\MFS2020 Addons\Airports\North America\United States\vref-airport-khvn-tweed-new-haven\manifest.json
+UPDATED     | WEST | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\xcodr-airport-1g4-grand-canyon-west\manifest.json
+NO_MATCH    | KDEN | v1.1.4 | E:\MFS2020 Addons\Airports\North America\United States\xcodr-airport-kden-denver\manifest.json
+NO_MATCH    | KSEZ | v1.0.2 | E:\MFS2020 Addons\Airports\North America\United States\xcodr-airport-ksez-redrocks\manifest.json
+UPDATED     | KWYS | v1.0.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\North America\United States\xcodr-airport-kwys-west-yellowstone\manifest.json
+NO_MATCH    | KRFD | v1.0.1 | E:\MFS2020 Addons\Airports\North America\United States\xwindstudios-airport-krfd-rockford\manifest.json
+NO_MATCH    | FORD | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\PilotEdge SimVenture 2024 (Oshkosh)\pilotedge-aircraft-ford-trimotor-ai\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\PilotEdge SimVenture 2024 (Oshkosh)\pilotedge-aircraft-robinson-r44-ai\manifest.json
+NO_MATCH    | KFLD | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\PilotEdge SimVenture 2024 (Oshkosh)\pilotedge-airport-kfld-fond-du-lac\manifest.json
+NO_MATCH    | KOSH | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\PilotEdge SimVenture 2024 (Oshkosh)\pilotedge-airport-kosh-wittman\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\PilotEdge SimVenture 2024 (Oshkosh)\pilotedge-airport-ws17-pioneer\manifest.json
+NO_MATCH    | MISC | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\PilotEdge SimVenture 2024 (Oshkosh)\pilotedge-misc-flagman\manifest.json
+NO_MATCH    | MISC | v1.0.0 | E:\MFS2020 Addons\Airports\North America\United States\PilotEdge SimVenture 2024 (Oshkosh)\pilotedge-misc-ground-crew\manifest.json
+NO_MATCH    | YAYE | v1.3.1 | E:\MFS2020 Addons\Airports\Oceania\Australia\auscene-airport-yaye-ayers-rock\manifest.json
+NO_MATCH    | YBHM | v1.0.1 | E:\MFS2020 Addons\Airports\Oceania\Australia\auscene-airport-ybhm-hamilton-island\manifest.json
+UPDATED     | YBNA | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\auscene-airport-ybna-ballina-byron\manifest.json
+NO_MATCH    | YLHI | v1.1.1 | E:\MFS2020 Addons\Airports\Oceania\Australia\auscene-airport-ylhi-lord-howe-island\manifest.json
+UPDATED     | YPPF | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\auscene-airport-yppf-parafield\manifest.json
+UPDATED     | YSPT | v2.4.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\auscene-airport-yspt-southport\manifest.json
+UPDATED     | YPPH | v1.0.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\axonos-airport-ypph-perth\manifest.json
+UPDATED     | YBAS | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\impulsesimulations-airport-ybas-alice-springs\manifest.json
+UPDATED     | YBDG | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\impulsesimulations-airport-ybdg-bendigo\manifest.json
+UPDATED     | YCFS | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\impulsesimulations-airport-ycfs-coffs-harbour\manifest.json
+UPDATED     | YSBK | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\impulsesimulations-airport-ysbk-bankstown\manifest.json
+UPDATED     | YSCB | v1.0.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\impulsesimulations-airport-yscb-canberra\manifest.json
+NO_MATCH    | MFSG | v1.1.0 | E:\MFS2020 Addons\Airports\Oceania\Australia\mfsg-airport-ybtl-townsville\manifest.json
+NO_MATCH    | MFSG | v1.1.0 | E:\MFS2020 Addons\Airports\Oceania\Australia\mfsg-airport-ypdn-darwin\manifest.json
+NO_MATCH    | MFSG | v1.2.0 | E:\MFS2020 Addons\Airports\Oceania\Australia\mfsg-airport-ypka-karratha\manifest.json
+NO_MATCH    | YKAT | v1.1.0 | E:\MFS2020 Addons\Airports\Oceania\Australia\msxcreations-airport-ykat-katoomba\manifest.json
+UPDATED     | ORBX | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\orbx-airport-ybbn-brisbane\manifest.json
+UPDATED     | ORBX | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\orbx-airport-ymml-melbourne\manifest.json
+UPDATED     | ORBX | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\orbx-livery-c172-orbx2\manifest.json
+UPDATED     | ORBX | v1.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\orbx-tour-melbourne\manifest.json
+UPDATED     | YSNF | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\propairflight-airport-ysnf-norfolk-island\manifest.json
+NO_MATCH    | YRAY | v1.0.0 | E:\MFS2020 Addons\Airports\Oceania\Australia\pyramid8studios-seaport-yray-sydney-seaplanes\manifest.json
+UPDATED     | YBSU | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\shunts-airport-ybsu-sunshine-coast\manifest.json
+UPDATED     | YCDR | v2.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Australia\shunts-airport-ycdr-caloundra\manifest.json
+UPDATED     | NFFN | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Fiji\inibuilds-airport-nffn-nadi\manifest.json
+UPDATED     | NTTH | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\French Polynesia\pearlsimulations-airport-ntth-huahine\manifest.json
+UPDATED     | NZAA | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\flightbeam-airport-nzaa-auckland\manifest.json
+UPDATED     | NZWN | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\flightbeam-airport-nzwn-wellington\manifest.json
+NO_MATCH    | NZTI | v1.1.0 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\godzone-airport-nzti-taieri\manifest.json
+NO_MATCH    | NZHK | v1.0.1 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\kiwiflightsim-airport-nzhk-hokitika\manifest.json
+NO_MATCH    | NZCH | v1.0.0 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\nzasimulations-airport-nzch-christchurch\manifest.json
+NO_MATCH    | NZMF | v1.0.0 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\nzasimulations-airport-nzmf-milford-sound\manifest.json
+NO_MATCH    | NZNS | v1.6.0 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\nzasimulations-airport-nzns-nelson\manifest.json
+NO_MATCH    | NZTG | v1.0.0 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\nzasimulations-airport-nztg-tauranga\manifest.json
+UPDATED     | NZMC | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\New Zealand\nzasimulations-airports-nzmc-nzgt-mount-cook\manifest.json
+NO_MATCH    | ???? | v1.1.0 | E:\MFS2020 Addons\Airports\Oceania\Oceana Landmarks\impulsesimulations-landmarks-cairns\manifest.json
+UPDATED     | ORBX | v1.1.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Oceana Landmarks\orbx-landmarks-auckland-city-pack\manifest.json
+NO_MATCH    | ???? | v1.0.0 | E:\MFS2020 Addons\Airports\Oceania\Oceana Landmarks\skytitude-sightseeing-gordon-dam\manifest.json
+UPDATED     | YBDP | v8.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-airport-ybdp-bridport\manifest.json
+UPDATED     | YDPO | v8.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-airport-ydpo-devonport\manifest.json
+NO_MATCH    | PARK | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-avalon-park\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-blundstone-arena\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-bridgewater-bridge\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-claremont-cadbury\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-goltzsch-viaduct\manifest.json
+UPDATED     | YBDP | v8.1.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-grindelwald\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-hobart-casino\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-hobart-cenotaph\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-oatlands-windmill\manifest.json
+NO_MATCH    | COVE | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\avalonweb-scenery-oyster-cove-inn\manifest.json
+NO_MATCH    | YCBG | v1.3.0 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\nzasimulations-airport-ycbg-cambridge\manifest.json
+NO_MATCH    | YMHB | v1.3.2 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\nzasimulations-airport-ymhb-hobart\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\zzz-avalonweb-scenery-batman-bridge\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\zzz-avalonweb-scenery-mt-wellington\manifest.json
+NO_MATCH    | ???? | v8.1.1 | E:\MFS2020 Addons\Airports\Oceania\Tasmania\zzz-avalonweb-scenery-tasman-bridge\manifest.json
+UPDATED     | FABL | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\caelusaerial-airport-fabl-bram-fischer\manifest.json
+NO_MATCH    | FALA | v2.1.0 | E:\MFS2020 Addons\Airports\South Africa\caelusaerial-airport-fala-lanseria\manifest.json
+NOOP        | FSDG | v1.3.0 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\fsdg-airport-fact-cape-town\manifest.json
+NO_MATCH    | FALE | v1.2.2 | E:\MFS2020 Addons\Airports\South Africa\gaffersimulations-airport-fale-king-shaka\manifest.json
+NOOP        | FAPE | v1.0.1 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\gaffersimulations-airport-fape-port-elizabeth\manifest.json
+NO_MATCH    | FAFK | v1.0.3 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-fafk-cape-winelands\manifest.json
+NOOP        | FAGG | v3.3.8 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-fagg-george\manifest.json
+NOOP        | FAPN | v1.2.6 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-fapn-pilanesberg\manifest.json
+NOOP        | FASH | v1.0.4 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-fash-stellenbosch\manifest.json
+NOOP        | FASP | v1.0.4 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-fasp-morningstar\manifest.json
+NOOP        | FASS | v1.0.6 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-fass-sishen\manifest.json
+NOOP        | FATP | v1.0.4 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-fatp-new-tempe\manifest.json
+NOOP        | FAVG | v1.5.2 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-favg-virginia\manifest.json
+NOOP        | FAYP | v1.0.1 | simType already MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\nmgsimulations-airport-fayp-ysterplaat\manifest.json
+UPDATED     | FAKN | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South Africa\pearlsimulations-airport-fakn-kruger\manifest.json
+UPDATED     | SABE | v1.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\centralsim-airport-sabe-jorge-newbery\manifest.json
+UPDATED     | SACO | v1.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\simulacionextrema-airport-saco-cordoba\manifest.json
+UPDATED     | SARI | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\simulacionextrema-airport-sari-cataratas-del-iguazu\manifest.json
+UPDATED     | SAVE | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\simulacionextrema-airport-save-esquel\manifest.json
+UPDATED     | SAVT | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\simulacionextrema-airport-savt-trelew\manifest.json
+UPDATED     | SAZN | v1.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\simulacionextrema-airport-sazn-presidente-peron\manifest.json
+UPDATED     | SAZS | v2.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\simulacionextrema-airport-sazs-bariloche\manifest.json
+UPDATED     | SAEZ | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\tropicalsim-airport-saez-ministro-pistarini\manifest.json
+UPDATED     | SAAR | v1.3.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\vuelosimple-airport-saar-islas-malvinas\manifest.json
+UPDATED     | SANT | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\vuelosimple-airport-sant-teniente\manifest.json
+UPDATED     | SASA | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Argentina\vuelosimple-airport-sasa-martin-miguel\manifest.json
+UPDATED     | SLAL | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Bolivia\sierrasim-airport-slal-alcantari\manifest.json
+NO_MATCH    | SLLP | v1.0.2 | E:\MFS2020 Addons\Airports\South America\Bolivia\sierrasim-airport-sllp-la-paz\manifest.json
+UPDATED     | SLVR | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Bolivia\tropicalsim-airport-slvr-viru-viru\manifest.json
+NO_MATCH    | SSKT | v1.1.0 | E:\MFS2020 Addons\Airports\South America\Brazil\aerocb-airport-sskt-santa-catarina\manifest.json
+NO_MATCH    | SBBE | v3.2.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbbe-val-de-cans\manifest.json
+NO_MATCH    | SBBG | v1.2.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbbg-comandante-gustavo-kraemer\manifest.json
+NO_MATCH    | SBBV | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbbv-boa-vista\manifest.json
+NO_MATCH    | SBCF | v2.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbcf-belo-horizonte\manifest.json
+NO_MATCH    | SBCH | v2.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbch-serafin-enoss-bertaso\manifest.json
+NO_MATCH    | SBCT | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbct-afonso-pena\manifest.json
+NO_MATCH    | SBCX | v2.1.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbcx-caxias-do-sul\manifest.json
+NO_MATCH    | SBCZ | v1.2.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbcz-cruzeiro-do-sul\manifest.json
+NO_MATCH    | SBEG | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbeg-manaus\manifest.json
+NO_MATCH    | SBFL | v1.0.6 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbfl-florianopolis\manifest.json
+NO_MATCH    | SBFZ | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbfz-fortaleza\manifest.json
+NO_MATCH    | SBHT | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbht-altamira\manifest.json
+NO_MATCH    | SBIC | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbic-itacoatiara\manifest.json
+NO_MATCH    | SBIL | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbil-ilheus-jorge-amado\manifest.json
+NO_MATCH    | SBIZ | v1.0.31 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbiz-imperatriz\manifest.json
+NO_MATCH    | SBJA | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbja-jaguaruna\manifest.json
+NO_MATCH    | SBJE | v1.0.2 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbje-comte-ariston-pessoa\manifest.json
+NO_MATCH    | SBJP | v1.0.2 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbjp-presidente-castro-pinto\manifest.json
+NO_MATCH    | SBJU | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbju-juazeiro-do-norte\manifest.json
+NO_MATCH    | SBJV | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbjv-joinville\manifest.json
+NO_MATCH    | SBKG | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbkg-campina-grande\manifest.json
+NO_MATCH    | SBLO | v1.0.2 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sblo-londrina\manifest.json
+NO_MATCH    | SBMA | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbma-maraba\manifest.json
+NO_MATCH    | SBMG | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbmg-silvio-name-junior\manifest.json
+NO_MATCH    | SBMO | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbmo-maceio\manifest.json
+NO_MATCH    | SBMQ | v1.5.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbmq-macapa\manifest.json
+NO_MATCH    | SBNF | v1.0.3 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbnf-navegantes\manifest.json
+NO_MATCH    | SBPB | v2.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbpb-parnaiba\manifest.json
+NO_MATCH    | SBPJ | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbpj-palmas\manifest.json
+NO_MATCH    | SBPL | v1.0.31 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbpl-petrolina\manifest.json
+NO_MATCH    | SBPS | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbps-porto-seguro\manifest.json
+NO_MATCH    | SBPV | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbpv-porto-velho\manifest.json
+NO_MATCH    | SBSG | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbsg-sao-gonzalo-do-amarante\manifest.json
+NO_MATCH    | SBSL | v2.2.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbsl-marechal-cunha-machado\manifest.json
+NO_MATCH    | SBSR | v1.2.5 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbsr-sao-jose-do-rio-preto\manifest.json
+NO_MATCH    | SBTC | v1.2.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbtc-una-comandatuba\manifest.json
+NO_MATCH    | SBTE | v1.1.1 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbte-teresina\manifest.json
+NO_MATCH    | SBTT | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbtt-tabatinga\manifest.json
+NO_MATCH    | SBTU | v2.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbtu-tucurui\manifest.json
+NO_MATCH    | SBUA | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbua-sao-gabriel-da-cachoeira\manifest.json
+NO_MATCH    | SBUF | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbuf-paulo-afonso\manifest.json
+NO_MATCH    | SBUG | v1.5.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbug-ruben-berta\manifest.json
+NO_MATCH    | SBUL | v2.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbul-uberlandia\manifest.json
+NO_MATCH    | SBVT | v2.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sbvt-eurico-de-aguiar-salles\manifest.json
+NO_MATCH    | SDCG | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sdcg-senadora-eunice-michiles\manifest.json
+NO_MATCH    | SNOX | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-snox-oriximina\manifest.json
+NO_MATCH    | SNVS | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-snvs-breves\manifest.json
+NO_MATCH    | SSPG | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-sspg-santos-dumont\manifest.json
+NO_MATCH    | SWBC | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-swbc-barcelos\manifest.json
+NO_MATCH    | SWHT | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-swht-humaita\manifest.json
+NO_MATCH    | SWKO | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-swko-coari\manifest.json
+NO_MATCH    | SWLB | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-swlb-labrea\manifest.json
+NO_MATCH    | SWMW | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-swmw-maues\manifest.json
+NO_MATCH    | SWNA | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-swna-novo-aripuana\manifest.json
+NO_MATCH    | SWNO | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\brazillandgames-airport-swno-nova-olinda-do-norte\manifest.json
+UPDATED     | SNPJ | v1.2.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\dcscenery-airport-snpj-patrocinio\manifest.json
+NO_MATCH    | DUDU | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\dudu-airport-common\manifest.json
+NO_MATCH    | DUDU | v1.2.0 | E:\MFS2020 Addons\Airports\South America\Brazil\dudu-airport-sbau-aracatuba\manifest.json
+NO_MATCH    | DUDU | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\dudu-airport-sndv-divinopolis\manifest.json
+NO_MATCH    | DUDU | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\dudu-airport-sngi-guanambi\manifest.json
+UPDATED     | SIRI | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\exabit-airport-siri-barra-grande\manifest.json
+UPDATED     | SNCL | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\exabit-airport-sncl-lorenzo\manifest.json
+UPDATED     | SBRP | v2.3.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\flxbrasil-airport-sbrp-leite-lopes\manifest.json
+UPDATED     | SBSN | v1.1.6 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\fsoares-airport-sbsn-santarem\manifest.json
+NO_MATCH    | SBBQ | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\geardownsimulations-airport-sbbq-barbacena\manifest.json
+NO_MATCH    | SBCY | v1.1.0 | E:\MFS2020 Addons\Airports\South America\Brazil\geardownsimulations-airport-sbcy-marechal-rondon\manifest.json
+UPDATED     | SBGV | v2.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\geardownsimulations-airport-sbgv-governador-valadares\manifest.json
+UPDATED     | SBPR | v1.5.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\geardownsimulations-airport-sbpr-carlos-prates\manifest.json
+NO_MATCH    | SBZM | v1.2.2 | E:\MFS2020 Addons\Airports\South America\Brazil\geardownsimulations-airport-sbzm-zona-da-mata\manifest.json
+UPDATED     | SNJM | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\geardownsimulations-airport-snjm-manhuacu\manifest.json
+NO_MATCH    | SWFN | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\geardownsimulations-airport-swfn-flores\manifest.json
+UPDATED     | SWPI | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\geardownsimulations-airport-swpi-parintins\manifest.json
+NO_MATCH    | SBYS | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\graza-airport-sbys-campo-fontenelle\manifest.json
+NO_MATCH    | SBJR | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Brazil\heavendesigns-airport-sbjr-jacarepagua\manifest.json
+UPDATED     | SSGG | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\heavendesigns-airport-ssgg-guarapuava\manifest.json
+NO_MATCH    | SBMT | v1.1.0 | E:\MFS2020 Addons\Airports\South America\Brazil\latavoadora-airport-sbmt-campo-de-marte\manifest.json
+UPDATED     | SDAG | v3.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\rmstudios-airport-sdag-angra-dos-reis\manifest.json
+UPDATED     | SBBW | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Brazil\v1studio-airport-sbbw-barra-do-garcas\manifest.json
+UPDATED     | SCVD | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Chile\bloque-airport-scvd-pichoy\manifest.json
+UPDATED     | SCAT | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Chile\flightsimchile-airport-scat-desierto\manifest.json
+UPDATED     | SCBA | v3.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Chile\simulacionextrema-airport-scba-balmaceda\manifest.json
+UPDATED     | SCCI | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Chile\simulacionextrema-airport-scci-carlos-ibanez\manifest.json
+NO_MATCH    | SCCY | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Chile\simulacionextrema-airport-sccy-teniente-vidal\manifest.json
+UPDATED     | SCIE | v2.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Chile\simulacionextrema-airport-scie-carriel-sur\manifest.json
+UPDATED     | SCJO | v2.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Chile\simulacionextrema-airport-scjo-canal-bajo\manifest.json
+UPDATED     | SCQP | v2.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Chile\simulacionextrema-airport-scqp-la-araucania\manifest.json
+NO_MATCH    | SCFA | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Chile\virtualdesign3d-airport-scfa-andres-sabella\manifest.json
+NO_MATCH    | SCSE | v1.1.0 | E:\MFS2020 Addons\Airports\South America\Chile\virtualdesign3d-airport-scse-la-florida\manifest.json
+NO_MATCH    | SCTB | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Chile\virtualdesign3d-airport-sctb-tobalaba\manifest.json
+UPDATED     | SKGO | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Colombia\colombianvirtualdesign-airport-skgo-santa-ana\manifest.json
+UPDATED     | SKUC | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Colombia\colombianvirtualdesign-airport-skuc-santiago-perez\manifest.json
+UPDATED     | SKBQ | v1.0.4 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Colombia\pksim-airport-skbq-barranquilla\manifest.json
+NO_MATCH    | SKRG | v1.0.2 | E:\MFS2020 Addons\Airports\South America\Colombia\pksim-airport-skrg-jose-maria\manifest.json
+NO_MATCH    | SKPV | v1.1.0 | E:\MFS2020 Addons\Airports\South America\Colombia\pksim-airports-skpv-sksp-el-embrujo-gustavo-rojas\manifest.json
+UPDATED     | SKLC | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Colombia\sdprojects-airport-sklc-antonio-roldan\manifest.json
+UPDATED     | SEGU | v2.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Colombia\sierrasim-airport-segu-guayaquil\manifest.json
+NO_MATCH    | SKBU | v2.0.0 | E:\MFS2020 Addons\Airports\South America\Colombia\simdesignsco-airport-skbu-gerardo-tobar\manifest.json
+NO_MATCH    | SKIP | v1.0.1 | E:\MFS2020 Addons\Airports\South America\Colombia\teikofstudio-airport-skip-san-luis\manifest.json
+UPDATED     | SKAR | v1.4.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Colombia\vpilotdesigns-airport-skar-el-eden\manifest.json
+NO_MATCH    | SKPA | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Colombia\vpilotdesigns-airport-skpa-paipa\manifest.json
+UPDATED     | SKUI | v0.1.3 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Colombia\vpilotdesigns-airport-skui-el-carano\manifest.json
+UPDATED     | SKMU | v1.2.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Colombia\wingsim-airport-skmu-mitu-fabio-alberto\manifest.json
+NO_MATCH    | SKPD | v1.2.0 | E:\MFS2020 Addons\Airports\South America\Colombia\wingsim-airport-skpd-cesar-gaviria\manifest.json
+NO_MATCH    | MSLP | v0.1.4 | E:\MFS2020 Addons\Airports\South America\El Salvador\portalframe-airports-mslp-msss-el-salvador\manifest.json
+NO_MATCH    | SYCJ | v2.2.0 | E:\MFS2020 Addons\Airports\South America\Guyana\fsxcenery-airport-sycj-cheddi-jagan\manifest.json
+UPDATED     | MPPA | v1.0.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Panama\centralsim-airport-mppa-panama-pacifico\manifest.json
+UPDATED     | MPBO | v0.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Panama\vpilotdesigns-airport-mpbo-bocas-del-toro\manifest.json
+NO_MATCH    | MPTO | v1.1.6 | E:\MFS2020 Addons\Airports\South America\Panama\vpilotdesigns-airport-mpto-tocumen\manifest.json
+NO_MATCH    | SPJC | v1.8.2 | E:\MFS2020 Addons\Airports\South America\Peru\oldpc-airport-spjc-jorge-chavez\manifest.json
+NO_MATCH    | SPJL | v2.0.0 | E:\MFS2020 Addons\Airports\South America\Peru\oldpc-airport-spjl-inca-manco\manifest.json
+NO_MATCH    | SPQU | v2.0.0 | E:\MFS2020 Addons\Airports\South America\Peru\oldpc-airport-spqu-rodriguez-ballon\manifest.json
+NO_MATCH    | SPRU | v1.0.0 | E:\MFS2020 Addons\Airports\South America\Peru\oldpc-airport-spru-trujillo\manifest.json
+UPDATED     | SULS | v1.1.0 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Uruguay\vuelosimple-airport-suls-laguna-del-sauce\manifest.json
+UPDATED     | SVMI | v1.0.2 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Venezuela\pksim-airport-svmi-maiquetia\manifest.json
+UPDATED     | SVCS | v1.0.1 | simType None -> MSFS 2020/2024 | E:\MFS2020 Addons\Airports\South America\Venezuela\tdm-airport-svcs-oscar-machado\manifest.json
+
+Summary:
+  WILL_UPDATE: 0
+  UPDATED    : 337
+  NOOP       : 10
+  NO_VERSION : 0
+  NO_MATCH   : 518
+  BAD_JSON   : 0
+=== Run finished 2025-11-09T12:44:45 ===

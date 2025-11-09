@@ -1,0 +1,2 @@
+# requirements.txt for simtagger
+python-dotenv>=1.0
